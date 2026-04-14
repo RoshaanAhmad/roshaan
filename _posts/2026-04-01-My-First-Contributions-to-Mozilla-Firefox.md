@@ -8,8 +8,6 @@ tags:
   - Outreachy
 ---
 
-# My First Contributions to Mozilla Firefox: Setup, Fixes, and the Lessons I Learned
-
 Contributing to **Mozilla Firefox** has been one of the most valuable experiences in my journey as a developer. It gave me firsthand exposure to how a large-scale, production-grade open-source project is structured, maintained, and collaboratively improved by contributors around the world.
 
 This blog documents my experience setting up the Firefox codebase locally, understanding its architecture, and contributing multiple frontend fixes as part of my open-source journey.
